@@ -1,5 +1,6 @@
 # Survey-Form
-Build a Survey Form project from Responsive Web Design Certification (freeCodeCamp)
+Project-1
+Build a Survey Form from Responsive Web Design Certification (freeCodeCamp)
 
 Webpage:
 https://gramajoana.github.io/Survey-Form/
